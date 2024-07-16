@@ -21,21 +21,10 @@ IBM HR Data new.csv
 1. Low , 2. Good , 3. Excellent , 4. Outstanding
 
 ##### Relationship Satisfaction
-1. Low
-2. Medium
-3. High
-4. Very High
+1. Low , 2. Medium , 3. High , 4. Very High
 
 ##### Work-Life Balance
-1. Bad
-2. Good
-3. Better
-4. Best
+1. Bad , 2. Good , 3. Better , 4. Best
 
 ##### Technologies Used:
-Python
-Pandas
-Scikit-learn
-Matplotlib
-Seaborn
-Jupyter Notebook
+Python , Pandas , Scikit-learn , Matplotlib , Seaborn , Jupyter Notebook
