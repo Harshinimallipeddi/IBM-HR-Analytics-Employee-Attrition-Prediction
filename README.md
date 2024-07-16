@@ -1,9 +1,9 @@
 # IBM-HR-Analytics-Employee-Attrition-Prediction
 This project involves HR analytics on IBM's dataset to analyze factors influencing employee attrition and predict the likelihood of employees leaving the company. The dataset includes features such as age, business travel, department, education, job role, and monthly income.
 
-### Dataset :
+## Dataset :
 IBM HR Data new.csv
-#### Feature Mappings
+## Feature Mappings
 
 ##### Education
 1. Below College , 2. College , 3. Bachelor , 4. Master , 5. Doctor
@@ -26,5 +26,5 @@ IBM HR Data new.csv
 ##### Work-Life Balance
 1. Bad , 2. Good , 3. Better , 4. Best
 
-##### Technologies Used:
+## Technologies Used:
 Python , Pandas , Scikit-learn , Matplotlib , Seaborn , Jupyter Notebook
