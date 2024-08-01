@@ -28,3 +28,5 @@ IBM HR Data new.csv
 
 ## Technologies Used:
 Python , Pandas , Scikit-learn , Matplotlib , Seaborn , Jupyter Notebook
+##  Visualization Tool- POWERBI
+A very interactive Dashboard has been created ,to see the different trends of the data
